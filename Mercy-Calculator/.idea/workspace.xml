@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="166f5f17-ba7b-4de4-9ace-6b6bb14ea29e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WGJdRvL5QEKpM2wXQKXh72u5h1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="smailbarkouch.mercycalculator.Main" />
+      <module name="Mercy-Calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="smailbarkouch.mercycalculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run" type="SbtRunConfiguration" factoryName="sbt Task" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="tasks" value="run" />
+      <option name="useSbtShell" value="true" />
+      <option name="vmparams" value="-Xms512M -Xmx1024M -Xss1M -XX:+CMSClassUnloadingEnabled" />
+      <option name="workingDir" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="sbt Task.run" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Mercy-Calculator" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="mercy-calculator [file:/Users/smailbarkouch/Documents/workspace/bytesizedprojects/Mercy-Calculator/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Mercy-Calculator-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3157540169582" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="446714574" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2912332145" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="166f5f17-ba7b-4de4-9ace-6b6bb14ea29e" name="Default Changelist" comment="" />
+      <created>1578770084507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578770084507</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578784796078">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1578784796078" />
+    <state x="372" y="321" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1578770678799">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="372" y="321" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1280.800@0.0.1280.800" timestamp="1578770678799" />
+    <state x="453" y="105" key="#com.intellij.ide.util.MemberChooser" timestamp="1578785445266">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="453" y="105" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1578785445266" />
+    <state width="1238" height="155" key="GridCell.Tab.0.bottom" timestamp="1578786626777">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="155" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1578786626777" />
+    <state width="1238" height="155" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1578785888168" />
+    <state width="1238" height="155" key="GridCell.Tab.0.center" timestamp="1578786626775">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="155" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1578786626775" />
+    <state width="1238" height="155" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1578785888165" />
+    <state width="1238" height="155" key="GridCell.Tab.0.left" timestamp="1578786626773">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="155" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1578786626773" />
+    <state width="1238" height="155" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1578785888164" />
+    <state width="1238" height="155" key="GridCell.Tab.0.right" timestamp="1578786626776">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="155" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1578786626776" />
+    <state width="1238" height="155" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1578785888166" />
+    <state x="141" y="0" key="SettingsEditor" timestamp="1578770628454">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="141" y="0" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1578770628454" />
+    <state x="317" y="248" key="com.intellij.ide.util.TipDialog" timestamp="1578779334728">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="317" y="232" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1578770289945" />
+    <state x="317" y="248" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1578779334728" />
+  </component>
+</project>

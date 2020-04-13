@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b4a7be0-db1c-4bb7-b990-ef8363e7db0b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Password Generator" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="TdJfJcuC" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WGzhIKJ1Qqc7U3dBjgoiYrsMCL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Password Generator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Password Generator" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="password-generator [file:/Users/smailbarkouch/Documents/workspace/bytesizedprojects/Password%20Generator/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Password Generator-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3157581674280" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="71821449" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2912332145" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../Mercy-Calculator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b4a7be0-db1c-4bb7-b990-ef8363e7db0b" name="Default Changelist" comment="" />
+      <created>1578790836835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578790836835</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="65" key="#Auto_Import" timestamp="1578792576553">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="65" key="#Auto_Import/0.0.1280.800@0.0.1280.800" timestamp="1578792576553" />
+    <state x="372" y="321" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1578790929019">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="372" y="321" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1280.800@0.0.1280.800" timestamp="1578790929019" />
+    <state x="453" y="105" key="#com.intellij.ide.util.MemberChooser" timestamp="1578791043122">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="453" y="105" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1578791043122" />
+    <state width="1238" height="106" key="GridCell.Tab.0.bottom" timestamp="1578797850302">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="106" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1578797850302" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1578792513128" />
+    <state width="1238" height="106" key="GridCell.Tab.0.center" timestamp="1578797850301">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="106" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1578797850301" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1578792513126" />
+    <state width="1238" height="106" key="GridCell.Tab.0.left" timestamp="1578797850301">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="106" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1578797850301" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1578792513125" />
+    <state width="1238" height="106" key="GridCell.Tab.0.right" timestamp="1578797850302">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="106" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1578797850302" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1578792513127" />
+    <state x="317" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1578790842354">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="317" y="232" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1578790842354" />
+  </component>
+</project>

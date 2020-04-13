@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e090fc3-6660-4a13-ad4a-2eda01d438d7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WGJGGz2O5hPwNLj4DPwX7RjaV3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Stealth-Translate" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Stealth-Translate" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="stealth-translate [file:/Users/smailbarkouch/Documents/workspace/bytesizedprojects/Stealth-Translate/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Stealth-Translate-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3157539803153" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="426350433" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2912332145" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../Mercy-Calculator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e090fc3-6660-4a13-ad4a-2eda01d438d7" name="Default Changelist" comment="" />
+      <created>1578769901257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578769901257</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="372" y="321" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1578962455922">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="372" y="321" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1280.800@0.0.1280.800" timestamp="1578962455922" />
+    <state x="453" y="105" key="#com.intellij.ide.util.MemberChooser" timestamp="1578962649609">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="453" y="105" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1578962649609" />
+    <state width="1238" height="116" key="GridCell.Tab.0.bottom" timestamp="1579125420473">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="116" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1579125420473" />
+    <state width="1238" height="116" key="GridCell.Tab.0.center" timestamp="1579125420472">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="116" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1579125420472" />
+    <state width="1238" height="116" key="GridCell.Tab.0.left" timestamp="1579125420472">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="116" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1579125420472" />
+    <state width="1238" height="116" key="GridCell.Tab.0.right" timestamp="1579125420473">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="116" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1579125420473" />
+    <state x="317" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1579124394423">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="317" y="232" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1579124394423" />
+  </component>
+</project>
