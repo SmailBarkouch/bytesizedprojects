@@ -2,10 +2,10 @@ use std::ops::Range;
 
 use plotters::prelude::*;
 
-const PIXEL_WIDTH: u32 = 100;
-const PIXEL_HEIGHT: u32 = 100;
+const PIXEL_WIDTH: u32 = 4000;
+const PIXEL_HEIGHT: u32 = 4000;
 const CHART_MAX: f32 = 1.5;
-const CHART_MIN: f32 = -1.5;
+const CHART_MIN: f32 = -2.0;
 const MAX_CHECKS: Range<u32> = 0..100;
 // Keep the max checks at or bellow 100 until a different color space is
 // used or I write an equation to determine what color it will be within
@@ -50,7 +50,7 @@ fn calc_pixel_mandelbrot(x: &f32, y: &f32) -> u32 {
         new_x = real_comp + x;
         new_y = imag_comp + y;
 
-        if new_x + new_y > 16.0 {
+        if new_x + new_y > 2.0 {
             return iter;
         }
     }
