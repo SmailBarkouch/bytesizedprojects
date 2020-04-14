@@ -2,11 +2,14 @@ use std::ops::Range;
 
 use plotters::prelude::*;
 
-const PIXEL_WIDTH: u32 = 1000;
-const PIXEL_HEIGHT: u32 = 1000;
+const PIXEL_WIDTH: u32 = 100;
+const PIXEL_HEIGHT: u32 = 100;
 const CHART_MAX: f32 = 1.5;
 const CHART_MIN: f32 = -1.5;
 const MAX_CHECKS: Range<u32> = 0..100;
+// Keep the max checks at or bellow 100 until a different color space is
+// used or I write an equation to determine what color it will be within
+// my colorspace
 
 fn main() {
     let root = BitMapBackend::new("2.5.png", (PIXEL_WIDTH, PIXEL_HEIGHT))
